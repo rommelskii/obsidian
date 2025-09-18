@@ -11,5 +11,3 @@
 	- 8-bit ascii
 	- No parity bits
 	- 1 stop bit
-
-:)
