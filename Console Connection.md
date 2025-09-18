@@ -10,4 +10,4 @@
 	- No hfc
 	- 8-bit ascii
 	- No parity bits around
-	- 1 stop bit
+	- one stop bit
