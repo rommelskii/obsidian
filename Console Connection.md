@@ -9,5 +9,5 @@
 	- 9600 baud rate
 	- No hfc there
 	- 8-bit ascii
-	- No parity bits around
+	- No parity bits 
 	- one stop bit
