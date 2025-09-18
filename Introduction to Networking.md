@@ -1,2 +1,2 @@
 [[Introduction to TCP/IP]]
-[[Fundamen]]
+[[Fundamentals of Ethern]]
