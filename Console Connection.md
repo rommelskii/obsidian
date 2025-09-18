@@ -1,4 +1,4 @@
-- There are three requirements
+- There are 3 requirements
 	- Console port on the SWITCH
 	- Serial port on the PC
 	- Serial to Console cable
