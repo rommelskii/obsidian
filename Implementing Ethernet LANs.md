@@ -1,3 +1,3 @@
 [[Analyzing Ethernet LAN Switching]]
 [[Configuring Basic Switch Management]]
-[[Configuring ]]
+[[Configuring and Verifying Swi]]
