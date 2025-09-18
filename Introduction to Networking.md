@@ -1,2 +1,3 @@
 [[Introduction to TCP/IP]]
-[[Fundamentals of Ethern]]
+[[Fundamentals of Ethernet LANs]]
+[[Fundamentals o]]
