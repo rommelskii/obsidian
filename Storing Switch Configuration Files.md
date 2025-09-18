@@ -1,0 +1,9 @@
+- Types of memory
+	- RAM/DRAM
+		- Contains the active programs or data
+	- Flash memory
+		- Contains removable media and boot images
+	- ROM
+		- Refers to the boostrap or boothelper program which is the boot sector
+	- NVRAM
+		- Contains the configuration of the device

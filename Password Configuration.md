@@ -1,0 +1,5 @@
+- Enable password
+	- This is the password to enter enable
+	- encrypted (secret)
+- Console password
+	- You just type 

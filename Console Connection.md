@@ -1,0 +1,13 @@
+- There are three requirements
+	- Console port on the SWITCH
+	- Serial port on the PC
+	- Serial->Console cable
+- Sometimes USB is used
+- DB-9 connection
+	- Used on older serial ports (RJ45->DB-9)
+- 8n1 connection
+	- 9600 baud rate
+	- No hfc
+	- 8-bit ascii
+	- No parity bits
+	- 1 stop bit

@@ -1,0 +1,19 @@
+- Configuration mode
+	- basically just an extension of the privileged execution mode
+	- You start from the global configuration mode (config)
+		- Accessed via 'configure terminal'
+- Context-setting commands
+	- From moving from one context to another (group of configuration commands), you utilize context-setting commands
+		- Example includes 'interface' commands which transitions (config) to (config-if)
+- Types of configurations
+	- Global
+		- 'configure terminal'
+	- Line
+		- 'line console {number}'
+	- Interface
+		- 'interface {type} {number}'
+	- VLAN
+		- 'vlan {number}'
+- Exiting configuration mode
+	- We use 'end' to go back to enable mode
+		
