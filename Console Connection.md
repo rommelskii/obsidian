@@ -8,6 +8,6 @@
 - 8n1 connection
 	- 9600 baud rate
 	- No hfc
-	- 8-bit ascii
+	- 8-bit asci
 	- No parity bits around
 	- one stop bit
