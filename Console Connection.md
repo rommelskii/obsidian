@@ -5,7 +5,7 @@
 - Sometimes USB is used as a cable
 - DB-9 connection
 	- Used on older serial ports (RJ45->DB-9)
-- 8n1 connection
+- 8N1 connection
 	- 9600 baud rate
 	- No hfc 
 	- 8-bit ascii
