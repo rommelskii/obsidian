@@ -7,7 +7,7 @@
 	- Used on older serial ports (RJ45->DB-9)
 - 8n1 connection
 	- 9600 baud rate
-	- No hfc there
+	- No hfc 
 	- 8-bit ascii
 	- No parity bits 
 	- one stop bit
