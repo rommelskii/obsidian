@@ -1,7 +1,7 @@
 - There are three requirements
 	- Console port on the SWITCH
 	- Serial port on the PC
-	- Serial->Console cable
+	- Serial to Console cable
 - Sometimes USB is used as a cable
 - DB-9 connection
 	- Used on older serial ports (RJ45->DB-9)
