@@ -1,2 +1,2 @@
 [[Lan Switching Concepts]]
-[[Verifying and Analyzing Ethern]]
+[[Verifying and Analyzing Ethernet Switching]]
