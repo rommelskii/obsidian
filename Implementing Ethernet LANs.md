@@ -1,2 +1,2 @@
 [[Analyzing Ethernet LAN Switching]]
-[[Configuring B
+[[Configuring Basic Switch Management]]
